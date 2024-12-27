@@ -23,6 +23,7 @@
 
 export const configure = () => {
     return {
+        // eslint-disable-next-line camelcase
         paste_as_text: true,
     };
 };
