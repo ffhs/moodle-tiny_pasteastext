@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Tiny PasteAsText';
 $string['pasteastext:use'] = 'Use TinyMCE PasteAsText';
+$string['pluginname'] = 'Tiny PasteAsText';
