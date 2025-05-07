@@ -22,7 +22,7 @@
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-namespace tiny_htmlblock\privacy;
+namespace tiny_pasteastext\privacy;
 
 /**
  * Privacy Subsystem implementing null_provider.
