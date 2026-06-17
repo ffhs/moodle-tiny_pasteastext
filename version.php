@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'tiny_pasteastext';
-$plugin->release = 'v1.1';
-$plugin->version = 2025042400;
+$plugin->release = 'v5.2';
+$plugin->version = 2026061700;
 $plugin->requires = 2022112800;
 $plugin->maturity = MATURITY_ALPHA;
-$plugin->supported = [402, 500];
+$plugin->supported = [405, 502];
